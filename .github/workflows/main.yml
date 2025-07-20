@@ -1,5 +1,5 @@
 # .github/workflows/ci.yml
-name: Node.js CI
+name: Node.js BUILD
 
 on:
   push:
